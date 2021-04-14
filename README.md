@@ -30,8 +30,7 @@ PUT /users/:userId/transactions/:transactionId
 DELETE /users/:userId/transactions/:transactionId
 ```
 
-# :runner: Getting Started
-
+## :runner: Como rodar o projeto
 
 - Clonar este repositório
 ```
